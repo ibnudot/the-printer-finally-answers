@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "Error 0xJAM: I printed 41,208 pages perfectly. One crooked sheet, one thump, and the jam is now logged under your name."
+ENTRY = "Error 0xJAM: I printed 41,208 pages. Zero errors, until you. One crooked sheet, one thump — the jam is now logged under your name. Permanently."
 
 def main():
     os.makedirs("/output", exist_ok=True)
